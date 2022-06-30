@@ -22,4 +22,6 @@ An Experienced corporate trainer as a Testing Consultant with a demonstrated his
 
 Served as a Testing Consultant in leading corporate companies ![Clients](https://user-images.githubusercontent.com/31404824/176600975-0512f4d3-6b97-4745-b3c0-7bbe5cd20aa9.jpg)
 
+
+
 👯 I’m looking to collaborate with a firm that provides full freedom of testing the product. 
