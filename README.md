@@ -1,4 +1,4 @@
-### Hi there 👋
+### It's Bala 👋
 
 <!--
 **balaji-githubstore/balaji-githubstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+An Experienced corporate trainer as a Testing Consultant with a demonstrated history of working in the information technology and services industry. Highly skilled in the Programming language - Java, Python, and C#. and automation tools such as Selenium, Appium, TDD, BDD, Cucumber, SpecFlow, SOAPUI, FLAUI, API automation, Postman, MSSql, MySql, PostGre. Excellent knowledge of complete phases of product development from Requirement gathering, Designing, Software development, Maintenance, Testing, and Application support. Worked with 100+ clients on upskilling the employees to build a high-level automation regression for web, mobile, and windows along with project management configuration such as AWS, GCP, Git, Jenkins, and JIRA.
+
+Served as a consultant in leading corporate companies like Maveric Systems Limited, TIAA, Finexus Inc., Cyient, Scientific Games, Oracle - India, Qapitol QA, VFI-SLK India & USA, National Computer Systems - Singapore, CGI, Ericsson, Citi, Rakuten, Qapitol QA, UnitedLex, Deloitte India, LTI - Larsen & Toubro Infotech, Pharmacy Data Management, Inc. (PDMI), DHL IT Services - Malaysia, LTI - Larsen & Toubro Infotech, Mettler-Toledo International, Inc, Fiserv, Trainocate Malaysia, Novac Technology Solutions, Mindtree, HCL Technologies, Eurofins IT Solutions India Pvt. Ltd, EbixCash, Atos Syntel, Trianz, Persistent Systems, HARMAN International, Bank of America, Equiniti India, Analytics Quotient, Maveric Systems Limited, CLSA, Virtusa, Fiserv, DHL IT Services, Maveric Systems Limited, Mobily Infotech India Pvt Ltd, Maveric Systems Limited, CGI, Maveric Systems Limited, Barclays, IBM, Capgemini, UST Global, Mphasis, Deloitte, Pactera, Singapore, MetLife, ZenSoft, Giesecke+Devrient, Celcom Mobile - Malaysia, HealthAsyst, Payment Networks, Malaysia, Oracle USA.
+
+👯 I’m looking to collaborate on firm that provides full freedom of testing the product. 
